@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "nodenext",
+        "rootDir": "./src",
+        "moduleResolution": "nodenext",
+        "outDir": "./dist",
+        "esModuleInterop": true,
+        "strict": false,
+        "skipLibCheck": true,
+        "allowJs": true,
+        "checkJs": false,
+        "noEmitOnError": false,
+        "types": ["node", "jest"],
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+    ]
+}
+  
