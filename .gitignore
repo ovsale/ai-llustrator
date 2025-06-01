@@ -8,6 +8,8 @@
 .env
 
 book/**/video/
+book/**/video.json
+book/**/temp_slideshow.mp4
 book/**/output.mp4
 
 
